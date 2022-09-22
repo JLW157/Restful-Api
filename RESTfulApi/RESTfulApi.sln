@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTfulApi", "RESTfulApi\RESTfulApi.csproj", "{D81B83DE-02DD-4792-ADD7-92B69B743F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroWeb", "SuperHeroWeb\SuperHeroWeb.csproj", "{50022201-DF31-4E47-9E16-7AADDC6D0C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81B83DE-02DD-4792-ADD7-92B69B743F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81B83DE-02DD-4792-ADD7-92B69B743F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81B83DE-02DD-4792-ADD7-92B69B743F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81B83DE-02DD-4792-ADD7-92B69B743F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50022201-DF31-4E47-9E16-7AADDC6D0C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50022201-DF31-4E47-9E16-7AADDC6D0C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50022201-DF31-4E47-9E16-7AADDC6D0C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50022201-DF31-4E47-9E16-7AADDC6D0C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CCE0D26-D406-4390-BB83-1AA011ED1470}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,130 @@
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\appsettings.json
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.exe
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.deps.json
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.runtimeconfig.json
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.pdb
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\DataAnnotationsExtensions.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.csproj.AssemblyReference.cache
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.AssemblyInfoInputs.cache
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.AssemblyInfo.cs
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.csproj.CoreCompileInputs.cache
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\scopedcss\bundle\RESTfulApi.styles.css
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.csproj.CopyComplete
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\refint\RESTfulApi.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.pdb
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.genruntimeconfig.cache
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\obj\Debug\net6.0\ref\RESTfulApi.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Humanizer.dll
+D:\Users\Саша\Desktop\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\appsettings.json
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.exe
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.deps.json
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.runtimeconfig.json
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\RESTfulApi.pdb
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\DataAnnotationsExtensions.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Humanizer.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.csproj.AssemblyReference.cache
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.AssemblyInfoInputs.cache
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.AssemblyInfo.cs
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.csproj.CoreCompileInputs.cache
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\scopedcss\bundle\RESTfulApi.styles.css
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.csproj.CopyComplete
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\refint\RESTfulApi.dll
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.pdb
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\RESTfulApi.genruntimeconfig.cache
+D:\Users\Саша\Desktop\C#\Asp net core\Asp.net core courses from YT\RESTfulApi\RESTfulApi\obj\Debug\net6.0\ref\RESTfulApi.dll

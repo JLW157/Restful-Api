@@ -1,0 +1,44 @@
+﻿@model IEnumerable<SuperHero>
+@{
+    ViewData["Title"] = "Super Heros";
+}
+
+<h1>Index Heros</h1>
+
+<a class="btn btn-primary" asp-controller="Hero" asp-action="Create">Create</a>
+
+<table class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                Hero ID
+            </th>
+            <th>
+                Hero Name
+            </th>
+             <th>
+                Hero Age
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model)
+        {
+            <tr>
+                <td>
+                    @obj.Id
+                </td>
+                <td width="50%">
+                    @obj.Name
+                </td>
+                <td width="30%">
+                    @obj.Age
+                </td>
+                <td class="text-center">
+                    <a class="btn btn-primary" asp-controller="Hero" asp-action="Edit" asp-route-id="@obj.Id">Edit</a>
+                    <a class="btn btn-danger" asp-controller="Hero" asp-action="Delete" asp-route-id="@obj.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
